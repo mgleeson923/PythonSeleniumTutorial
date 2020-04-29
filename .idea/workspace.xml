@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd818c84-23b3-478e-b061-0c514963fcdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basicsyntax/booleans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basicsyntax/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.booleans">
+  <component name="RunManager" selected="Python.strings">
     <configuration name="booleans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,6 +107,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythontutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicsyntax" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicsyntax/strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="variable_rules" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythontutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,35 +151,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythontutorial" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basicsyntax" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basicsyntax/variables.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.strings" />
         <item itemvalue="Python.booleans" />
         <item itemvalue="Python.number_operations" />
         <item itemvalue="Python.numbers" />
         <item itemvalue="Python.variable_rules" />
-        <item itemvalue="Python.variables" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +174,7 @@
       <workItem from="1587742800288" duration="483000" />
       <workItem from="1588094707163" duration="4504000" />
       <workItem from="1588181107120" duration="82000" />
-      <workItem from="1588181219384" duration="1482000" />
+      <workItem from="1588181219384" duration="2822000" />
     </task>
     <servers />
   </component>
@@ -189,25 +190,25 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="408" y="164" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.797/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.797" timestamp="1588181114514" />
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1588188853584">
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1588194042459">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.797" timestamp="1588188853584" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.797/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.797" timestamp="1588194042459" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.801/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.801" timestamp="1588099683729" />
-    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1588188853584">
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1588194042458">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.797" timestamp="1588188853584" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.797/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.797" timestamp="1588194042458" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.801/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.801" timestamp="1588099683728" />
-    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1588188853583">
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1588194042457">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.797" timestamp="1588188853583" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.797/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.797" timestamp="1588194042457" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.801/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.801" timestamp="1588099683727" />
-    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1588188853584">
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1588194042458">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.797" timestamp="1588188853584" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.797/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.797" timestamp="1588194042458" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.801/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.801" timestamp="1588099683728" />
     <state x="229" y="60" key="SettingsEditor" timestamp="1588096951630">
       <screen x="0" y="23" width="1440" height="801" />
@@ -221,6 +222,7 @@
     <state x="399" y="258" key="com.intellij.ide.util.TipDialog/0.23.1440.801/884.-1057.1920.1057/-1036.-1057.1920.1057@0.23.1440.801" timestamp="1588094710645" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythontutorial$strings.coverage" NAME="strings Coverage Results" MODIFIED="1588194042450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basicsyntax" />
     <SUITE FILE_PATH="coverage/pythontutorial$variables.coverage" NAME="variables Coverage Results" MODIFIED="1588098812358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basicsyntax" />
     <SUITE FILE_PATH="coverage/pythontutorial$number_operations.coverage" NAME="number_operations Coverage Results" MODIFIED="1588188280237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basicsyntax" />
     <SUITE FILE_PATH="coverage/pythontutorial$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1588181347523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basicsyntax" />
